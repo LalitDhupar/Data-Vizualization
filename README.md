@@ -4,10 +4,11 @@ Analysis of Chicago Crime data from 2014 - 2018
 
 # Approach
 
-Tools:
-Jupyter Notebook, Tableau
-
 Chart Type: - Interactive folium Map, Stacked Bar graph, Multiline graph\
+
+Tools used:\
+Jupyter Notebook, Tableau\
+
 Libraries:\
 •	Numpy – library for python programming\
 •	Pandas – library for data manipulation and analysis\
